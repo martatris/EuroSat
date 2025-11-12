@@ -23,7 +23,7 @@ You should have the EuroSAT dataset organized as follows:
         River/
         SeaLake/
 
-Each subfolder contains images belonging to that land use category.
+Each subfolder contains images belonging to that land use category. The dataset is too big, it can be downloaded from Kaggle: https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
 
 ## Main Script
 ------------
